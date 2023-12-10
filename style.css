@@ -1,0 +1,48 @@
+
+*{
+    margin: 0;
+    padding: 0;
+     box-sizing:border-box;
+     color: white;
+}
+body{
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    background-image: url(CZu8FI.webp);
+    background-size: cover;
+}
+
+img{
+    height: 500px;
+    float: right;
+    margin-left: 400PX;
+    margin-right: 200px;
+
+    
+}
+
+
+div{
+    
+    border: 5PX solid rgba(255, 255, 255, 0.4);
+    margin-right:500px;
+    margin-left: 500px;
+    
+    background-color: black;
+   
+}
+
+h4{
+    margin-left: 40px;
+    margin-right: 100px;
+font-style: italic;
+    
+}
+h1{
+    font-style: oblique;
+    font-size: x-large;
+   color: white;
+}
